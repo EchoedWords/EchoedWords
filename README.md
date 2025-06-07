@@ -1,6 +1,6 @@
 - Hi, I’m @EchoedWords
 - this is a joint account between two friends to build stuff
-- I’m interested in self modifying pipelines , functional programming, geometry,quantum computing and cryptography
+- I’m interested in self modifying pipelines , functional programming, geometry,quantum computing and cryptography (not exhaustive)
 - I’m currently learning
 - I’m looking to collaborate on ... if you can help please do and if you need mine ask one of us
 -  How to reach me : if you dont know better keep it that way
